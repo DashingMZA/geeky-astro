@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Geeky Astro",
-    "base_url": "https://example.com",
+    "base_url": "https://geeky.csofts.tech",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -29,7 +29,7 @@
   "params": {
     "contact_form_action": "#",
     "footer_content": "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper.",
-    "copyright": "Designed and Developed By [Statichunt](https://statichunt.com/)"
+    "copyright": "Designed and Developed By [cSofts](https://csofts.com)"
   },
 
   "widgets": {
@@ -56,19 +56,19 @@
   },
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
-    "link": "https://example.com"
+    "label": "Edit with cSofts",
+    "link": "https://app.csofts.tech/new/clone?name=GeekyAstro&repository=https://github.com/DashingMZA/geeky-astro&aff=geekyastro"
   },
 
   "metadata": {
-    "meta_author": "statichunt",
+    "meta_author": "cSofts",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro and tailwind boilerplate"
+    "meta_description": "Astro and Tailwind boilerplate"
   },
 
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "csofts-template",
     "settings": {}
   }
 }
