@@ -11,7 +11,6 @@
     "logo_height": "39",
     "logo_text": "Geeky"
   },
-
   "settings": {
     "search": true,
     "sticky_header": false,
@@ -25,13 +24,11 @@
     "summary_length": 200,
     "post_folder": "posts"
   },
-
   "params": {
     "contact_form_action": "#",
-    "footer_content": "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper.",
+    "footer_content": "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper..",
     "copyright": "Designed and Developed By [cSofts](https://csofts.com)"
   },
-
   "widgets": {
     "about": {
       "enable": true,
@@ -59,13 +56,11 @@
     "label": "Edit with cSofts",
     "link": "https://app.csofts.tech/new/clone?name=GeekyAstro&repository=https://github.com/DashingMZA/geeky-astro&aff=geekyastro"
   },
-
   "metadata": {
     "meta_author": "cSofts",
     "meta_image": "/images/og-image.png",
     "meta_description": "Astro and Tailwind boilerplate"
   },
-
   "disqus": {
     "enable": true,
     "shortname": "csofts-template",
